@@ -3,8 +3,8 @@
 
 ## 🚀 Set up 
 ```
-conda create --name SwinFuSR pytorch torchvision pytorch-cuda=11.7 -c pytorch -c nvidia
-conda activate SwinFuSR
+conda create --name torch17 pytorch torchvision pytorch-cuda=11.7 -c pytorch -c nvidia
+conda activate torch17
 pip install -r requirements.txt
 ```
 
